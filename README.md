@@ -3,28 +3,34 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mantoku+%F0%9F%91%8B;Game+Programmer+%F0%9F%8E%AE;DirectX+11+%2F+C%2B%2B+%F0%9F%9A%80;Student+at+HAL+Osaka+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mantoku+%F0%9F%91%8B;Aspiring+Game+Programmer+%F0%9F%9A%80;Student+at+HAL+Osaka+%F0%9F%8E%93" alt="Typing SVG" />
 </div>
 
 ## 🌟 **About Me**
 
 ### 👋 **Hi, I'm Mantoku!**
-🚀 **Aspiring Client Engineer** | Class of 2027
+🚀 **Aspiring Game Programmer** | Class of 2027
 
 - 🎂 **Age:** 20
 - 🌍 **Location:** Hyogo, Japan 🇯🇵
 - 🎓 **School:** HAL Osaka (Game 4-Year Course)
 - 🎯 **Goal:** Creating immersive gaming experiences
 
-## 🎮 **Steam Status**
+ <div align="left">
 
-<div align="center">
-  <a href="https://steamcommunity.com/profiles/76561198835243757/">
-    <img src="https://steam-readme-stats.vercel.app/api?id=76561198835243757&theme=tokyonight&layout=compact" alt="Steam Profile Status" />
+  <a href="mailto:mantoku714@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div>
-<br>
 
+  <a href="Googleドライブの共有リンクURL">
+    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive" />
+  </a>
+
+  <a href="https://steamcommunity.com/profiles/76561198835243757/">
+    <img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  </a>
+
+</div>
 
 ## 🛠️ **Tech Stack**
 
