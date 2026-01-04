@@ -44,7 +44,7 @@
 
 ## 🎮 **Steam Status**
 
-[![Steam Card](https://YOUR-VERCEL-DOMAIN.vercel.app/api/steam-card.svg?steamid=76561198835243757)](https://steamcommunity.com/profiles/76561198835243757)
+[![Steam Card](https://steam-card-jbpvxfz9x-mantoku333s-projects.vercel.app/api/steam-card.svg)](https://steamcommunity.com/profiles/76561198835243757)
 
 ## 🛠️ **Tech Stack**
 
