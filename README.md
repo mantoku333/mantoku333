@@ -42,7 +42,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mantoku333&custom_title=Mantoku's%20GitHub%20Activity&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
 
-## 🎮 **Steam Status**
+## 🎮 **Steam**
 
 [![Steam Card](https://steam-card-jbpvxfz9x-mantoku333s-projects.vercel.app/api/steam-card.svg)](https://steamcommunity.com/profiles/76561198835243757)
 
