@@ -44,7 +44,14 @@
 
 ## 🎮 **Steam**
 
-[![Steam Card](https://steam-card-jbpvxfz9x-mantoku333s-projects.vercel.app/api/steam-card.svg?cache=202601041900)](https://steamcommunity.com/profiles/76561198835243757)
+<h2>🎮 Steam</h2>
+
+<a href="https://steamcommunity.com/profiles/76561198835243757">
+  <img
+    src="https://steam-card-jbpvxfz9x-mantoku333s-projects.vercel.app/api/steam-card.svg?cache=2"
+    alt="Steam Card"
+  />
+</a>
 
 
 ## 🛠️ **Tech Stack**
