@@ -48,7 +48,7 @@
 
 <a href="https://steamcommunity.com/profiles/76561198835243757">
   <img
-    src="https://steam-card-jbpvxfz9x-mantoku333s-projects.vercel.app/api/steam-card.svg?cache=999"
+    src="https://steam-card-jbpvxfz9x-mantoku333s-projects.vercel.app/api/steam-card.svg?cache=20260104"
     alt="Steam Card"
   />
 </a>
