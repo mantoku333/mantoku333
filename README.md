@@ -67,17 +67,8 @@
 </tr>
 </table>
 
-## 🏆 **GitHub Trophies**
-
-<img src="https://github-profile-trophy.vercel.app/?username=mantoku333&theme=transparent&no-frame=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-
-
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
 </div>
 
-<div align="center">
-  <strong>⭐ Thanks for visiting! From <a href="https://github.com/mantoku333">Mantoku</a> with ❤️</strong>
-</div>
