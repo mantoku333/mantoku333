@@ -8,64 +8,36 @@
 
 ## 🌟 **About Me**
 
-<div align="center">
-
-<table>
-<tr>
-<td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=cpp" width="100" height="100" alt="C++" />
-<br><strong>C++ / DirectX</strong>
-</td>
-<td width="400" align="left">
-
 ### 👋 **Hi, I'm Mantoku!**
-🚀 **Game Programmer** passionate about Graphics Programming
+🚀 **Game Programmer** passionate about Programming.
 
-🌍 **Location:** Osaka, Japan 🇯🇵  
-💼 **Focus:** DirectX 11, HLSL, Game Engine Dev  
-🎓 **School:** HAL Osaka (Game 4-Year Course)  
-🎯 **Goal:** Creating immersive gaming experiences  
+- 🌍 **Location:** Osaka, Japan 🇯🇵
+- 💼 **Focus:** DirectX 11, HLSL, Game Engine Dev
+- 🎓 **School:** HAL Osaka (Game 4-Year Course)
+- 🎯 **Goal:** Creating immersive gaming experiences
+
+I am currently developing a **Rhythm Game** using **DirectX 11 & C++**.
+## 🛠️ **Tech Stack**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,visualstudio,vscode,unity,blender,ps,ae,git,github,githubactions,python,html,css,md&perline=8" />
+</div>
+
 
 </td>
 </tr>
 </table>
 
-</div>
 
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mantoku333&theme=transparent&border_radius=10&starting_year=2024" alt="readme streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mantoku333&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mantoku333&custom_title=Mantoku's%20GitHub%20Activity&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
-
-## 🛠️ **Tech Stack**
-
-<table align="center">
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 🎮  **Game Development**
-<img src="https://skillicons.dev/icons?i=cpp,cs,visualstudio" />
-
-### 🖼️  **Graphics & Tools**
-<img src="https://skillicons.dev/icons?i=blender,ps,unity" />
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 🔧  **Version Control**
-<img src="https://skillicons.dev/icons?i=git,github" />
-
-### 💻  **Other Languages**
-<img src="https://skillicons.dev/icons?i=python,html,css" />
-
-</td>
-</tr>
-</table>
 
 
 <div align="center">
