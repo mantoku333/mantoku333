@@ -16,6 +16,16 @@
 - 🎓 **School:** HAL Osaka (Game 4-Year Course)
 - 🎯 **Goal:** Creating immersive gaming experiences
 
+## 🎮 **Steam Status**
+
+<div align="center">
+  <a href="https://steamcommunity.com/profiles/76561198835243757/">
+    <img src="https://steam-readme-stats.vercel.app/api?id=76561198835243757&theme=tokyonight&layout=compact" alt="Steam Profile Status" />
+  </a>
+</div>
+<br>
+
+
 ## 🛠️ **Tech Stack**
 
 <div align="center">
