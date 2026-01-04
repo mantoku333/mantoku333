@@ -44,9 +44,8 @@
 
 ## 🎮 **Steam Status**
 
-<div align="center">
-  <img src="https://steam-readme-stats.vercel.app/api?id=76561198835243757&theme=tokyonight" alt="Steam Stats" />
-</div>
+[![Steam Card](https://YOUR-VERCEL-DOMAIN.vercel.app/api/steam-card.svg?steamid=76561198835243757)](https://steamcommunity.com/profiles/76561198835243757)
+
 ## 🛠️ **Tech Stack**
 
 <table align="center">
