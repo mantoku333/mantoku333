@@ -11,4 +11,4 @@
 ---
 
 ### 📊 GitHub Activity
-[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=あなたのユーザー名&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mantoku333&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
