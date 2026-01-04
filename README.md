@@ -9,25 +9,18 @@
 ## 🌟 **About Me**
 
 ### 👋 **Hi, I'm Mantoku!**
-🚀 **Game Programmer** passionate about Programming.
+🚀 **Aspiring Client Engineer** | Class of 2027
 
-- 🌍 **Location:** Osaka, Japan 🇯🇵
-- 💼 **Focus:** DirectX 11, HLSL, Game Engine Dev
+- 🎂 **Age:** 20
+- 🌍 **Location:** Hyogo, Japan 🇯🇵
 - 🎓 **School:** HAL Osaka (Game 4-Year Course)
 - 🎯 **Goal:** Creating immersive gaming experiences
 
-I am currently developing a **Rhythm Game** using **DirectX 11 & C++**.
 ## 🛠️ **Tech Stack**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,visualstudio,vscode,unity,blender,ps,ae,git,github,githubactions,python,html,css,md&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,unreal,godot,visualstudio,rider,vscode,cmake,windows,blender,ps,ae,pr,figma,python,html,powershell,linux,apple,arduino,git,github,githubactions,jenkins,aws,gcp,kubernetes,discord,notion,md,latex&perline=11" />
 </div>
-
-
-</td>
-</tr>
-</table>
-
 
 ## 📊 **GitHub Analytics**
 
