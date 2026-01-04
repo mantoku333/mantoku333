@@ -42,12 +42,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mantoku333&custom_title=Mantoku's%20GitHub%20Activity&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
 
-## 🎮 **Steam Activity**
+## 🎮 **Steam Status**
 
 <div align="center">
-  <img src="https://github-readme-steam.vercel.app/api?id=76561198835243757&theme=dark" alt="Steam Activity" />
+  <img src="https://steam-readme-stats.vercel.app/api?id=76561198835243757&theme=tokyonight" alt="Steam Stats" />
 </div>
-
 ## 🛠️ **Tech Stack**
 
 <table align="center">
